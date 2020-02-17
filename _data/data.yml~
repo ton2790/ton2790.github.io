@@ -77,7 +77,10 @@ projects:
       - title: GroulLib
         link: "http://github.com/ton2790"
         tagline: "A basic library for group theoretic operations in Python."
-        level: 70%
+
+      - title: LAPACk-LatEx (Upcoming)
+        link:
+        tagline: "An interface between Fortran's matrix operations and LateX typesetting."
 
 #publications:
 #    title: Publications

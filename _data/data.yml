@@ -75,7 +75,7 @@ projects:
         the moment.
     assignments:
       - title: GroulLib
-        link: "http://github.com/ton2790"
+        link: "http://github.com/ton2790/GroupLib"
         tagline: "A basic library for group theoretic operations in Python."
 
       - title: LAPACk-LatEx (Upcoming)
