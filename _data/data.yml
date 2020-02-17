@@ -75,7 +75,7 @@ projects:
         the moment.
     assignments:
       - title: GroulLib
-        link: "#hook"
+        link: "http://github.com/ton2790"
         tagline: "A basic library for group theoretic operations in Python."
 
 #publications:
@@ -108,6 +108,9 @@ skills:
 
       - name: Fortran
         level: 40%
+
+      - name: LaTeX
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
