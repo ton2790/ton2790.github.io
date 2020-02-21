@@ -52,10 +52,10 @@ career-profile:
       However, my personal projects give me an avenue to explore my interests
       and illustrate my skills in
       <ul>
-          <li>Data management<\li>
-          <li>Python Scripting<\li>
-          <li>Scientific Computing<\li>
-      <\ul>
+          <li>Data management
+          <li>Python Scripting
+          <li>Scientific Computing
+      
 education:
     - degree: BS in Mathematics, ongoing
       university: University of Victoria
