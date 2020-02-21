@@ -51,9 +51,11 @@ career-profile:
       with entry level manual positions taking the bulk of my experiences.
       However, my personal projects give me an avenue to explore my interests
       and illustrate my skills in
-          -Data management
-          -Python Scripting
-          -Scientific Computing
+      <ul>
+          <li>Data management<\li>
+          <li>Python Scripting<\li>
+          <li>Scientific Computing<\li>
+      <\ul>
 education:
     - degree: BS in Mathematics, ongoing
       university: University of Victoria

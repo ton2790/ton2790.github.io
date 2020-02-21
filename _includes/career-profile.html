@@ -9,6 +9,18 @@
     </span>
     {{ career-profile.title }}
   </h2>
+ 
+  <ul class="list-unstyled interests-list">
+    {% for interest in interests %}
+
+      {% if interest.link %}
+      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      {% else %}
+      <li>{{ interest.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
 
   <div class="summary">
     {{ career-profile.summary | markdownify }}
