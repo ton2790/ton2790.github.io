@@ -63,14 +63,6 @@ education:
         Currently focusing on applying mathematics to relational algebra
         and Database Management in SQL. |
     
-experiences:
-    - role: Bike Mechanic
-      time: 2019 - 2019
-      company: OSL, Victoria
-      details: 
-        Built, maintained and sold bycicles at locations around Vancouver
-        Island.  Created optimizations to build order, saving 5-10 minutes
-        per bike constructed.|
 projects:
     title: Projects
     intro: >
@@ -84,6 +76,15 @@ projects:
       - title: LAPACk-LatEx (Upcoming)
         link:
         tagline: "An interface between Fortran's matrix operations and LateX typesetting."
+
+experiences:
+    - role: Bike Mechanic
+      time: 2019 - 2019
+      company: OSL, Victoria
+      details: 
+        Built, maintained and sold bycicles at locations around Vancouver
+        Island.  Created optimizations to build order, saving 5-10 minutes
+        per bike constructed.|
 
 #publications:
 #    title: Publications
