@@ -47,10 +47,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      As a student, my introduction to industry has been shallow and varied,
+      As a student, my introduction to industry has been broad by necessity,
       with entry level manual positions taking the bulk of my experiences.
       However, my personal projects give me an avenue to explore my interests
-      and illustrate my skills in data management.
+      and illustrate my skills in
+          -Data management
+          -Python Scripting
+          -Scientific Computing
 education:
     - degree: BS in Mathematics, ongoing
       university: University of Victoria
