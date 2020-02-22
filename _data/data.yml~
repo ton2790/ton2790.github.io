@@ -51,9 +51,11 @@ career-profile:
       with entry level manual positions taking the bulk of my experiences.
       However, my personal projects give me an avenue to explore my interests
       and illustrate my skills in
-          -Data management
-          -Python Scripting
-          -Scientific Computing
+      <ul>
+          <li>Database management
+          <li>Python Scripting
+          <li>Scientific Computing
+      
 education:
     - degree: BS in Mathematics, ongoing
       university: University of Victoria
@@ -63,14 +65,6 @@ education:
         Currently focusing on applying mathematics to relational algebra
         and Database Management in SQL. |
     
-experiences:
-    - role: Bike Mechanic
-      time: 2019 - 2019
-      company: OSL, Victoria
-      details: 
-        Built, maintained and sold bycicles at locations around Vancouver
-        Island.  Created optimizations to build order, saving 5-10 minutes
-        per bike constructed.|
 projects:
     title: Projects
     intro: >
@@ -80,10 +74,23 @@ projects:
       - title: GroulLib
         link: "http://github.com/ton2790/GroupLib"
         tagline: "A basic library for group theoretic operations in Python."
+      
+      - title: Uvic Math Course and Prerequisite Datavbase
+        link: "https://github.com/ton2790/Database_Testing"
+        tagline: "An SQLite 3 database and associated python module for querying couurse requirements at UVIC"
 
       - title: LAPACk-LatEx (Upcoming)
         link:
         tagline: "An interface between Fortran's matrix operations and LateX typesetting."
+
+experiences:
+    - role: Bike Mechanic
+      time: 2019 - 2019
+      company: OSL, Victoria
+      details: 
+        Built, maintained and sold bycicles at locations around Vancouver
+        Island.  Created optimizations to build order, saving 5-10 minutes
+        per bike constructed.|
 
 #publications:
 #    title: Publications
