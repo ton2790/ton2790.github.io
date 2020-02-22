@@ -77,7 +77,7 @@ projects:
       
       - title: Uvic Math Course and Prerequisite Databbase
         link: "https://github.com/ton2790/Database_Testing"
-        tagline: "An SQLite 3 database and associated python module for querying couurse requirements at UVIC"
+        tagline: "An SQLite 3 database and associated python module for querying couurse requirements at UVIC."
 
       - title: LAPACk-LatEx (Upcoming)
         link:
