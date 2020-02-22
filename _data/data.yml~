@@ -75,7 +75,7 @@ projects:
         link: "http://github.com/ton2790/GroupLib"
         tagline: "A basic library for group theoretic operations in Python."
       
-      - title: Uvic Math Course and Prerequisite Datavbase
+      - title: Uvic Math Course and Prerequisite Databbase
         link: "https://github.com/ton2790/Database_Testing"
         tagline: "An SQLite 3 database and associated python module for querying couurse requirements at UVIC"
 
