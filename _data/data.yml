@@ -47,14 +47,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      As a student, my introduction to industry has been broad by necessity,
-      with entry level manual positions taking the bulk of my experiences.
-      However, my personal projects give me an avenue to explore my interests
-      and illustrate my skills in
-      <ul>
-          <li>Database management
-          <li>Python Scripting
-          <li>Scientific Computing
+      I'm a student with a passion for making abstract math accessible and useful in industry.
+      Currently, I'm working on learning more about cateegory theory and typed functional
+      programming in Haskell, but I'd like to join the project to bring dependent types to
+      mainstream development for safe and sane metaprogramming.
       
 education:
     - degree: BS in Mathematics, ongoing
@@ -71,6 +67,10 @@ projects:
         I'm still working on moving my projects online, so bear with me for 
         the moment.
     assignments:
+      - title: JSON Pretty Printer
+        link: "https://github.com/ton2790/JSON"
+        tagline: "Basic Haskell module for pretty printing JSON data.  Parser to follow."
+
       - title: GroulLib
         link: "http://github.com/ton2790/GroupLib"
         tagline: "A basic library for group theoretic operations in Python."
@@ -116,6 +116,9 @@ skills:
     toolset:
       - name: Python
         level: 30%
+
+      - name: Haskell
+        level: 40%
 
       - name: SQL
         level: 30%
